@@ -23,3 +23,6 @@ nodeclipse-1 (IDE for Node.js)
 
 Events in Beijing  
 https://www.eventbrite.com/directory?q=Beijing&loc=Beijing%2C+China
+
+Open Party
+http://www.beijing-open-party.org/event/22

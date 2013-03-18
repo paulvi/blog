@@ -1,9 +1,11 @@
 blog
 ====
 
-I am Paul Verest  
+Hello
 
-Software [coding] Architect
+My name is Paul Verest  
+
+I am Software [coding] Architect
 
 Interested in Java, Groovy, Scala, Android, Node.js and new Java & JavaScript frameworks; better ways of doing software
 
@@ -16,8 +18,8 @@ Take a look at things that I do:
 I work for [Funshion Online](http://www.funshion.com/english/index.html), Chinese company serving media to 290 000 000 users (60 000 000 daily). 
 
 Open source project I participate:
-npm-proxy
-nodeclipse-1 (IDE for Node.js)
+npm-proxy  
+nodeclipse-1 (IDE for Node.js)  
 
-Events in Beijing
+Events in Beijing  
 https://www.eventbrite.com/directory?q=Beijing&loc=Beijing%2C+China

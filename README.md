@@ -26,3 +26,6 @@ https://www.eventbrite.com/directory?q=Beijing&loc=Beijing%2C+China
 
 Open Party
 http://www.beijing-open-party.org/event/22
+
+Well, [registering](http://forum.springsource.org/register.php) at [SpringSource forum](http://forum.springsource.org/forumdisplay.php) is only for brave and determined.
+[Try it](http://forum.springsource.org/register.php).

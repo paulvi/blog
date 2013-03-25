@@ -20,6 +20,7 @@ I work for [Funshion Online](http://www.funshion.com/english/index.html), Chines
 Open source project I participate:
 npm-proxy  
 nodeclipse-1 (IDE for Node.js)  
+eclipse-node-ide (Enide)  
 
 Events in Beijing  
 https://www.eventbrite.com/directory?q=Beijing&loc=Beijing%2C+China

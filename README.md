@@ -30,3 +30,8 @@ http://www.beijing-open-party.org/event/22
 
 Well, [registering](http://forum.springsource.org/register.php) at [SpringSource forum](http://forum.springsource.org/forumdisplay.php) is only for brave and determined.
 [Try it](http://forum.springsource.org/register.php).
+
+If you ever wanted to see GitHub issues in Eclipse, since Eclipse 4.2.2 EGit
+ comes with [Mylyn GitHub connector](http://wiki.eclipse.org/EGit/GitHub/UserGuide),
+so no need to [install](http://marketplace.eclipse.org/content/github-mylyn-connector), just configure and use.
+

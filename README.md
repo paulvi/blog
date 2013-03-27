@@ -20,7 +20,7 @@ I work for [Funshion Online](http://www.funshion.com/english/index.html), Chines
 Open source project I participate:
 npm-proxy  
 nodeclipse-1 (IDE for Node.js)  
-eclipse-node-ide (Enide)  
+[eclipse-node-ide (aka Enide)](https://github.com/PaulVI/eclipse-node-ide)  
 
 Events in Beijing  
 https://www.eventbrite.com/directory?q=Beijing&loc=Beijing%2C+China
@@ -33,5 +33,16 @@ Well, [registering](http://forum.springsource.org/register.php) at [SpringSource
 
 If you ever wanted to see GitHub issues in Eclipse, since Eclipse 4.2.2 EGit
  comes with [Mylyn GitHub connector](http://wiki.eclipse.org/EGit/GitHub/UserGuide),
-so no need to [install](http://marketplace.eclipse.org/content/github-mylyn-connector), just configure and use.
+so no need to [install](http://marketplace.eclipse.org/content/github-mylyn-connector),
+ just [configure](https://github.com/PaulVI/eclipse-node-ide/blob/master/Hints.md#connect-eclipse-to-github-issues) and use.
 
+JavaScript type definitions
+http://wiki.eclipse.org/VJET/ANVILS
+
+I want to organize [Beijing] JVM & Node.js User Groups,
+there are maybe more than 100'000 developers in Beijing, but know such user groups. That is weird. 
+Both are server-side technologies, and my research is about connecting them.
+While Java platform has a lot of great things, Node.js beats with re-fresh and simplicity. Welcoming future.
+
+Eclipse DemoCamp is more about Enterprise software and tooling.
+Hope for intermediate to high level topics.

@@ -18,9 +18,9 @@ Take a look at things that I do:
 I work for [Funshion Online](http://www.funshion.com/english/index.html), Chinese company serving media to 290 000 000 users (60 000 000 daily). 
 
 Open source project I participate:
-npm-proxy  
-nodeclipse-1 (IDE for Node.js)  
-[eclipse-node-ide (aka Enide)](https://github.com/PaulVI/eclipse-node-ide)  
+[npm-proxy aka NPS](https://github.com/funshion/npm-proxy)  
+Nodeclipse-1 (Node.js support in Eclipse)  
+[Eclipse Node.js IDE (aka Enide)](https://github.com/PaulVI/eclipse-node-ide) which uses Nodeclipse   
 
 Events in Beijing  
 https://www.eventbrite.com/directory?q=Beijing&loc=Beijing%2C+China
@@ -28,7 +28,8 @@ https://www.eventbrite.com/directory?q=Beijing&loc=Beijing%2C+China
 Open Party
 http://www.beijing-open-party.org/event/22
 
-Well, [registering](http://forum.springsource.org/register.php) at [SpringSource forum](http://forum.springsource.org/forumdisplay.php) is only for brave and determined.
+Well, [registering](http://forum.springsource.org/register.php) at [SpringSource forum](http://forum.springsource.org/forumdisplay.php)
+ is only for brave and determined.
 [Try it](http://forum.springsource.org/register.php).
 
 If you ever wanted to see GitHub issues in Eclipse, since Eclipse 4.2.2 EGit
@@ -40,9 +41,9 @@ JavaScript type definitions
 http://wiki.eclipse.org/VJET/ANVILS
 
 I want to organize [Beijing] JVM & Node.js User Groups,
-there are maybe more than 100'000 developers in Beijing, but know such user groups. That is weird. 
+there are maybe more than 100'000 developers in Beijing, but there are no such user groups. That is weird.  
 Both are server-side technologies, and my research is about connecting them.
 While Java platform has a lot of great things, Node.js beats with re-fresh and simplicity. Welcoming future.
 
-Eclipse DemoCamp is more about Enterprise software and tooling.
+Eclipse DemoCamp is more about Enterprise software and tooling.  
 Hope for intermediate to high level topics.

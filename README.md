@@ -8,6 +8,8 @@ I am Software [coding] Architect
 
 Interested in Java, Groovy, Scala, Android, Node.js and new Java & JavaScript frameworks; better ways of doing software
 
+JVMs and Node.js User Groups  (Java, Groovy, Scala, Android, JavaScript)
+Eclipse DemoCamp organizer
 
 Take a look at things that I do:  
 [Beijing Software Craftsmanship Meetup Group](http://www.meetup.com/BeijingSoftwareCraftsmanship/)  
@@ -19,7 +21,7 @@ I work for [Funshion Online](http://www.funshion.com/english/index.html), Chines
 Open source project I participate:
 [npm-proxy aka NPS](https://github.com/funshion/npm-proxy)  
 Nodeclipse-1 (Node.js support in Eclipse)  
-[Eclipse Node.js IDE (aka Enide)](https://github.com/PaulVI/eclipse-node-ide) which uses Nodeclipse
+[Eclipse Node.js IDE (aka Enide)](https://github.com/Nodeclipse/eclipse-node-ide) which uses Nodeclipse-1
 
 ## Notes   
 

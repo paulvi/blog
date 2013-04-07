@@ -20,7 +20,7 @@ I work for [Funshion Online](http://www.funshion.com/english/index.html), Chines
 
 Open source project I participate:
 [npm-proxy aka NPS](https://github.com/funshion/npm-proxy)  
-Nodeclipse-1 (Node.js support in Eclipse)  
+[Nodeclipse-1 (Node.js support in Eclipse)](https://github.com/Nodeclipse/nodeclipse-1)  
 [Eclipse Node.js IDE (aka Enide)](https://github.com/Nodeclipse/eclipse-node-ide) which uses Nodeclipse-1
 
 ## Notes   

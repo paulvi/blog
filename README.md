@@ -55,3 +55,15 @@ http://www.beijing-open-party.org
 
 - International Running Festival - Beijing 2013
 http://www.bjrunningfestival.com/
+
+## Thoughts
+
+From my and others life experience and, I believe that
+
+- 1 year is enough for a student to get start with a new system and start developing independently.
+- 3 years is when developer is professional with the system and he/she feel himself self-sufficient.  
+	That is time when communication become more important than technical side.
+- 10+ years are needed to produce software solutions for broader specter of problems.   
+  	Some developers stay coders. They always code instead of searching or inventing for higher level frameworks they can use.
+  	While for them personally that is simpler to do, the value of that work goes to zero as we look from further distance.
+  	

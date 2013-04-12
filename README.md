@@ -67,3 +67,10 @@ From my and others life experience and, I believe that
   	Some developers stay coders. They always code instead of searching or inventing for higher level frameworks they can use.
   	While for them personally that is simpler to do, the value of that work goes to zero as we look from further distance.
   	
+## Trends
+
+[Marketplace Installs by Country April 10th 2013](marketplace.eclipse.org/metrics/successful_installs/last30days_bycountry)
+
+![TOP10-Installs-by-country.PNG](Pictures/TOP10-Installs-by-country.PNG) 
+
+

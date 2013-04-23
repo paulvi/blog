@@ -73,4 +73,21 @@ From my and others life experience and, I believe that
 
 ![TOP10-Installs-by-country.PNG](Pictures/TOP10-Installs-by-country.PNG) 
 
+## Wuhan
+
+我叫伟保罗。我住在北京3年了。我是乌克兰人。
+我在北京组织Eclipse 展示营地 开普勒 2013 
+这个是没费的活动for用Java或者JS开发者。
+http://wiki.eclipse.org/Eclipse_DemoCamps_Kepler_2013/Beijing
+
+上周我第二次来的武汉。多一点儿了解了城市。
+我知道了武汉有很多开发员，但是世界上人不知道武汉在那儿。
+
+我给大家建议组织Eclipse DemoCamp
+http://wiki.eclipse.org/Eclipse_DemoCamps_Kepler_2013/Wuhan
+我不能组织，但是可以帮助一点儿。网页已经有了。
+只要10多人参加，1-2讲或者演示Eclipse相关的项目，技术，工具。
+现在Eclipse除了Java，还有Java IDE 和 Node.js IDE
+有很多新的有意思的技术。
+
 

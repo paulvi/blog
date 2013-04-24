@@ -69,7 +69,7 @@ From my and others life experience and, I believe that
   	
 ## Trends
 
-[Marketplace Installs by Country April 10th 2013](marketplace.eclipse.org/metrics/successful_installs/last30days_bycountry)
+[Marketplace Installs by Country](http://marketplace.eclipse.org/metrics/successful_installs/last30days_bycountry) April 10th 2013
 
 ![TOP10-Installs-by-country.PNG](Pictures/TOP10-Installs-by-country.PNG) 
 

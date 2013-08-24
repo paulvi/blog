@@ -3,9 +3,13 @@
 
 # Node.js
 
+Nodeclipse (Node.js Eclipse-based IDE) status updates 
+http://www.linkedin.com/groups/Nodeclipse-Nodejs-Eclipsebased-IDE-status-2906459.S.264966310
+
+
+
 Very interesting discussion [Is it a good architectural decision to use dynamic languages at server side for large scale applications?](http://www.linkedin.com/groups/Is-it-good-architectural-decision-2906459.S.265487770)
 on LInkedIn.
-
 
 Some quotes below:
 

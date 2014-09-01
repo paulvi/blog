@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Baidu map</title>
+    <style type="text/css">
+        body, html, #allmap
+        {
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            margin: 0;
+        }
+        #l-map
+        {
+            height: 100%;
+            width: 78%;
+            float: left;
+            border-right: 2px solid #bcbcbc;
+        }
+        #r-result
+        {
+            height: 100%;
+            width: 20%;
+            float: left;
+        }
+    </style>
+
+
+    <script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=bt7CjGNajnlD3WmRGgFE5ogP"></script>
+
+
+</head>
+<body>
+    <div id="allmap">
+    </div>
+</body>
+</html>
+
+
+<script type="text/javascript">
+    //alert("Hello World");
+    var map = new BMap.Map("allmap");               //
+
+
+    var point = new BMap.Point(116.31985,39.959836);    // 
+    map.centerAndZoom(point, 11);                   // 
+
+
+    //var traffic = new BMap.TrafficLayer();         //     
+    //map.addTileLayer(traffic);                     //  
+
+
+    map.addControl(new BMap.NavigationControl());   // 
+    map.addControl(new BMap.MapTypeControl());      //
+
+	map.addControl(new BMap.ScaleControl()); // 显示比例
+	map.addControl(new BMap.OverviewMapControl()); // 
+
+    map.enableScrollWheelZoom();                    //
+    
+		map.addEventListener("click", function(e)
+		{    
+ 			//alert(e.point.lng + ", " + e.point.lat); 
+ 			window.external.GetMapInfoForJS(e.point.lng,e.point.lat); 
+ 		});        
+        
+    function setLocation(x,y){
+         var point = new BMap.Point(x, y);   
+         map.centerAndZoom(point, 18); 
+         var mark = new BMap.Marker(point);                 
+         map.addOverlay(mark);   
+         mark.enableDragging();   
+    }
+    
+    function BeginSearch(x,y,strSearch)
+    {
+    	 var point = new BMap.Point(x, y);   
+         map.centerAndZoom(point, 11); 
+         var mark = new BMap.Marker(point);                 
+         map.addOverlay(mark);   
+         mark.enableDragging();   
+         
+    	var local = new BMap.LocalSearch(map, 
+    	{
+    		renderOptions: {map: map, panel: "r-result"}
+    	});
+    	
+    	local.search(strSearch);
+    	//alert(strSearch);
+    }
+    
+</script>
